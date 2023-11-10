@@ -116,7 +116,7 @@ ProfPlan allows you to create recurring tasks with frequency of a day, week or m
 
 Puzzled about which task to do next? Worry not, ProfPlan has you covered.
 
-To explore more, visit [this section](#advanced-features) for more advanced tips.
+To explore more, please visit [this section](#advanced-features) for more advanced tips.
 
 --------------------------------------------------------------------------------------------------------------------
 
